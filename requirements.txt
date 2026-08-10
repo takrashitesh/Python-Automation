@@ -1,3 +1,4 @@
 selenium==4.16.0
 pytest==9.0.3
 faker==23.2.0
+
