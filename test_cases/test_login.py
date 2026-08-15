@@ -21,3 +21,5 @@ class TestDashboard:
         ).text
 
         assert dashboard == "Dashboard"
+
+        # This is change for new repo
