@@ -25,3 +25,10 @@ class TestDashboard:
         # This is change for new repo
 
 
+    #         @pytest.mark.tc_login_001
+    # def test_dashboard_title(self, login_setup):
+
+    #     self.driver = login_setup
+
+    #     assert self.driver.title == "OrangeHRM"
+
